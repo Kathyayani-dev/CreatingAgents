@@ -1,4 +1,4 @@
-# code for ram_wr_agt
+# code for ram_wr_agent
 #  Write agent class for Dual port RAM TB
 ...
 //------------------------------------------ 
